@@ -34,6 +34,10 @@ You can see the gif of the project below.
 
 ![Animation](https://github.com/oranmehmetsirin/Clone-of-Netflix-2/blob/main/gif.gif?raw=true)
 
+Additional Gif uploaded.
+
+![Animation](https://github.com/oranmehmetsirin/Clone-of-Netflix-2/blob/main/gifN.gif?raw=true)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
