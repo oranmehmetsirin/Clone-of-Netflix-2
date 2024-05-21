@@ -7,19 +7,27 @@ In the website project created with the collaboration of React + Vite, a lot of 
 A copy of the project can be created by obtaining a new API from the relevant website, and you can also add videos, images, reviews and recommendation data.
 
 In the project;
+
 Libraries Used
 
 React-Router-DOM
+
 React-Redux
-redux
+
+Redux
+
 Redux-Thunk
-axios
+
+Axios
+
 Millify
+
 Tailwind
 
 And
 
-API used
+API used;
+
 https://developer.themoviedb.org/reference/intro/getting-started
 
 You can see the gif of the project below.
